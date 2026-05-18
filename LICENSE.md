@@ -1,4 +1,4 @@
-# 
+# automatic bot sniper MEV executor é o melhor bot sniper MEV executor com suporte a multi-carteiras e arbitragem com empréstimos flash. Seguro, confiável e otimizado para
 
 
 
